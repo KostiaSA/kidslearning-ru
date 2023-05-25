@@ -6,11 +6,11 @@
     "logo": "/images/logo.png",
     "logo_width": "200",
     "logo_height": "34",
-    "logo_text": "Bookworm Light"
+    "logo_text": "УЧИМ ДЕТОК"
   },
 
   "settings": {
-    "pagination": 3,
+    "pagination": 25,
     "summary_length": 200,
     "blog_folder": "posts"
   },
@@ -18,7 +18,7 @@
   "params": {
     "tag_manager_id": "",
     "contact_form_action": "#",
-    "copyright": "Copyright © 2022 a theme by [themefisher](https://themefisher.com)"
+    "copyright": ""
   },
 
   "metadata": {

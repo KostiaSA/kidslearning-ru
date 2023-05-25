@@ -101,7 +101,7 @@ const PostSingle = ({ post, posts, authors, slug }) => {
       <section className="section">
         <div className="container">
           <h2 className="mb-8 text-center">Similar Posts</h2>
-          <SimilarPosts posts={similarPosts.slice(0, 3)} />
+          <SimilarPosts posts={similarPosts.slice(0, 20)} />
         </div>
       </section>
     </>

@@ -1,7 +1,7 @@
 {
   "main": [
     {
-      "name": "Home",
+      "name": "Блог",
       "url": "/"
     },
     {
@@ -9,7 +9,7 @@
       "url": "/about"
     },
     {
-      "name": "Contact",
+      "name": "Контакты",
       "url": "/contact"
     },
     {
