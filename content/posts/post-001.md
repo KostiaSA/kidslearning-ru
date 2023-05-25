@@ -2,7 +2,7 @@
 title: "Как привить детям любовь к чтению"
 description: "Как привить детям любовь к чтению"
 date: 2022-04-04T05:00:00Z
-image: "/images/posts/01.jpg"
+image: "/images/posts/001.jpg"
 categories: ["чтение"]
 authors: ["Николай Ягодкин"]
 tags: ["чтение"]
