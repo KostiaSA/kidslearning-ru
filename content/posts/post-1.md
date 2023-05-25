@@ -1,5 +1,5 @@
 ---
-title: "How to make toys from old Olarpaper"
+title: "Привет собаки дикие"
 description: "meta description"
 date: 2022-04-04T05:00:00Z
 image: "/images/posts/01.jpg"
