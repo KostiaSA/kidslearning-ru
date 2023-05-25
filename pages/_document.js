@@ -11,8 +11,8 @@ const Document = () => {
         {/* favicon */}
         <link rel="shortcut icon" href={favicon} />
         {/* theme meta */}
-        <meta name="theme-name" content="bookworm-light-nextjs" />
         <meta name="msapplication-TileColor" content="#000000" />
+        <meta name="p:domain_verify" content="d7c694b1758ba85d97feb7e383b5e2a0"/>
         <meta
           name="theme-color"
           media="(prefers-color-scheme: light)"
