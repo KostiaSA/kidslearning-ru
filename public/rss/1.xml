@@ -1,26 +1,26 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:dcterms="http://purl.org/dc/terms/" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
 	<channel>
-		<title>My Site name</title>
-		<link>http://example.com/rss</link>
+		<title>Child Learning</title>
+		<link>https://kidslearning.vercel.app/rss/1.xml</link>
 		<managingEditor>support@example.com (myname)</managingEditor>
 		<webMaster>support@example.com (name)</webMaster>
 		<image>
-			<url>http://example.com/android-chrome-512x512.png</url>
-			<title>My site name</title>
-			<link>http://example.com/rss</link>
+			<url>https://kidslearning.vercel.app/images/logo-kids.png</url>
+			<title>Child Learning</title>
+			<link>https://kidslearning.vercel.app/rss/1.xml</link>
 		</image>
-		<description>My site description.</description>
-		<language>en</language>
-		<pubDate>Wed, 29 Jun 22 03:47:23 +0000</pubDate>
+		<description>Child Learning blog</description>
+		<language>ru</language>
+		<pubDate>Fri, 26 May 23 03:47:23 +0000</pubDate>
 		<item>
-			<guid>https://example.com/img/739</guid>
-			<title> Description image </title>
-			<description/>
-			<link>https://example.com/img/739/</link>
-			<enclosure url="https://example.com/resources/964.jpg" length="83372" type="image/jpeg"/>
-			<media:content url="https://example.com/resources/739_964.jpg" fileSize="83372" type="image/jpeg"/>
-			<pubDate>Tue, 21 Jun 22 22:38:51 +0000</pubDate>
+			<guid>https://kidslearning.vercel.app/rss-img/pin-152928.jpg</guid>
+			<title>Range of lingerie designed to accentuate your body!</title>
+			<description>Discover an exquisite range of lingerie designed to accentuate your body, highlighting your feminine silhouette. Our collection ensures a perfect cup size fit for every woman. From cute face-inspired patterns to versatile bikini sets, find your beach-ready swimwear. Dive into a world of style with women's panties tailored for comfort. Enjoy a day at the beach or a quiet evening at home with. Make every moment special with our curated collection, fusing fashion and comfort seamlessly.</description>
+			<link>https://kidslearning.vercel.app/post-002/</link>
+			<enclosure url="https://kidslearning.vercel.app/rss-img/pin-152928.jpg" length="319861" type="image/jpeg"/>
+			<media:content url="https://kidslearning.vercel.app/rss-img/pin-152928.jpg" fileSize="319861" type="image/jpeg"/>
+			<pubDate>Fri, 26 May 23 22:38:51 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
