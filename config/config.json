@@ -1,6 +1,6 @@
 {
   "site": {
-    "title": "Bookworm Next | Personal Blog Theme",
+    "title": "Kids Learning",
     "base_url": "/",
     "favicon": "/images/favicon.png",
     "logo": "/images/logo-kids.png",
@@ -22,8 +22,8 @@
   },
 
   "metadata": {
-    "meta_author": "Themefisher",
-    "meta_image": "/images/og-image.png",
-    "meta_description": "Next Boilerplate"
+    "meta_author": "",
+    "meta_image": "",
+    "meta_description": ""
   }
 }
