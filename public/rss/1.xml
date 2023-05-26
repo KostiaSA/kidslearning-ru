@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dcterms="http://purl.org/dc/terms/" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+	<channel>
+		<title>My Site name</title>
+		<link>http://example.com/rss</link>
+		<managingEditor>support@example.com (myname)</managingEditor>
+		<webMaster>support@example.com (name)</webMaster>
+		<image>
+			<url>http://example.com/android-chrome-512x512.png</url>
+			<title>My site name</title>
+			<link>http://example.com/rss</link>
+		</image>
+		<description>My site description.</description>
+		<language>en</language>
+		<pubDate>Wed, 29 Jun 22 03:47:23 +0000</pubDate>
+		<item>
+			<guid>https://example.com/img/739</guid>
+			<title> Description image </title>
+			<description/>
+			<link>https://example.com/img/739/</link>
+			<enclosure url="https://example.com/resources/964.jpg" length="83372" type="image/jpeg"/>
+			<media:content url="https://example.com/resources/739_964.jpg" fileSize="83372" type="image/jpeg"/>
+			<pubDate>Tue, 21 Jun 22 22:38:51 +0000</pubDate>
+		</item>
+	</channel>
+</rss>
