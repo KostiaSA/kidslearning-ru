@@ -8,18 +8,18 @@
 		<image>
 			<url>https://kidslearning.vercel.app/images/logo-kids.png</url>
 			<title>Child Learning</title>
-			<link>https://kidslearning.vercel.app/rss/2.xml</link>
+			<link>https://kidslearning.vercel.app/rss/1.xml</link>
 		</image>
 		<description>Child Learning blog</description>
 		<language>ru</language>
 		<pubDate>Sun, 28 May 23 00:39:51 +0000</pubDate>
 		<item>
-			<guid>https://kidslearning.vercel.app/rss-img/pin-1529289q.jpg</guid>
+			<guid>https://kidslearning.vercel.app/rss-img/77.jpg</guid>
 			<title>Как научить ребенка читать быстро и с умом?</title>
 			<description>Хотите узнать, как научить ребенка читать быстро и с умом? Откройте для себя простые и эффективные способы обучения чтению, развивающие игры и улучшение навыков чтения. Подберите интересные детские книги для понимания прочитанного. Сделайте чтение увлекательным!</description>
 			<link>https://kidslearning.vercel.app/post-002/</link>
-			<enclosure url="https://kidslearning.vercel.app/rss-img/pin-152928q.jpg" length="319861" type="image/jpeg"/>
-			<media:content url="https://kidslearning.vercel.app/rss-img/pin-152928q.jpg" fileSize="319861" type="image/jpeg"/>
+			<enclosure url="https://kidslearning.vercel.app/rss-img/77.jpg" length="319861" type="image/jpeg"/>
+			<media:content url="https://kidslearning.vercel.app/rss-img/77.jpg" fileSize="319861" type="image/jpeg"/>
 			<pubDate>Sun, 28 May 23 00:39:51 +0000</pubDate>
 		</item>
 	</channel>
