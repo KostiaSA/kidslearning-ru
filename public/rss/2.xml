@@ -2,7 +2,7 @@
 <rss xmlns:dcterms="http://purl.org/dc/terms/" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
 	<channel>
 		<title>Child Learning</title>
-		<link>https://kidslearning.vercel.app/rss/1.xml</link>
+		<link>https://kidslearning.vercel.app/rss/2.xml</link>
 		<managingEditor>support@example.com (myname)</managingEditor>
 		<webMaster>support@example.com (name)</webMaster>
 		<image>
